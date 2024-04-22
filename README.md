@@ -1,2 +1,2 @@
 # blog-go
-Personal blog site built with Go.
+Test blog site - to be built with go.
