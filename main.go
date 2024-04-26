@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"lenslocked/controllers"
-	"lenslocked/templates"
-	"lenslocked/views"
+	"blog-go/controllers"
+	"blog-go/templates"
+	"blog-go/views"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
